@@ -1,47 +1,58 @@
-# Zhaoran Feng
+# Zhaoran Feng · 冯赵然
 
-Ph.D. Student in AI for Science
+**Scientific agents that learn from verifiable feedback.**
 
-**Scientific Data · Benchmarks · Agents · Verification**
+PhD student at **Nanjing University** and **Shanghai Innovation Institute**. My background is in physics and complex systems. I work on scientific agents, optimization, and reliable machine learning.
 
-I build AI systems that work reliably with imperfect scientific data,
-physical simulators, and verifiable scientific environments.
+I develop agents that connect scientific reasoning with executable tools and simulation. My goal is to make these systems useful in real research and engineering workflows.
 
----
+[Email](mailto:602025220012@smail.nju.edu.cn) · [Current work](#current-work) · [Publications](#published--accepted) · [Research directions](#research-directions)
 
-## Research
+## Current work
 
-### Scientific Agents
-Self-evolving optimization, tool use, search, and verification.
+- **Scientific agents · ADAPT for Science**  
+  A multi-agent framework that jointly adapts **where to search** and **how to search**, combining prior designs, differentiable simulation, and execution feedback. Evaluated on gravitational-wave detector design. **ICLR · Under review.**
 
-### Scientific Data & Benchmarks
-Physics-guided benchmark construction under noisy, delayed,
-missing, and low-resolution observations.
+- **Verifiable reinforcement learning · NoThreeRL**  
+  Mathematical construction for the no-three-in-line problem, with an independent integer verifier, an incremental search environment, and PPO training. **Ongoing research.**
 
-### Physics-Aware Learning
-Learning representations and latent states from scientific dynamics.
+## Published & accepted
 
----
+**PhysTC: A Physics-Enhanced Dataset and Architecture for High-Precision Tropical Cyclone Forecasting**  
+*NeurIPS 2026 · Accepted*  
+A global dataset and physics-enhanced forecasting model addressing information lost in coarse-resolution observations. Code release planned.
 
-## Selected Projects
+**Blind-Window Forecasting: Real-Time Benchmarking and Multimodal Reconstruction for Tropical Cyclones**  
+*NeurIPS 2026 · Accepted*  
+RECAST-TC reconstructs forecast-relevant states from delayed reanalysis and real-time satellite observations, with evaluation aligned to information available at forecast issuance. Code release planned.
 
-### ADAPT for Science
-Self-evolving scientific agents for physics-constrained optimization.
+**[Complexity-powered machine intelligent classification of quantum many-body dynamics](https://doi.org/10.1103/l825-x9d5)**  
+*Physical Review E 113, 065301 (2026) · Published*  
+TFCAD incorporates temporal fluctuation complexity into unsupervised learning to classify quantum dynamical phases. Code release planned.
 
-### Blind-Window Forecasting
-Real-time tropical cyclone forecasting under realistic information latency.
-**NeurIPS 2026**
+**[人工智能驱动的新一代气候模式：走向可解释的行为−排放−气候反馈框架](https://doi.org/10.12006/j.issn.1673-1719.2026.146)**  
+*气候变化研究进展 / Climate Change Research · Accepted · Review in Chinese*  
+A review of AI climate modeling and an interpretable framework linking human behavior, emissions, and climate feedback. Companion resources planned.
 
-### PhysTC
-Physics-aware global tropical cyclone dataset and forecasting framework.
-**NeurIPS 2026**
+<details>
+<summary><b>Manuscripts under review</b></summary>
 
-### TFCAD
-Complexity-powered unsupervised learning for quantum many-body dynamics.
-**Physical Review E, 2026**
+**ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization**  
+*ICLR · Under review*  
+Scientific optimization through the joint evolution of initialization selection and optimization procedures. See the research summary above.
 
----
+**Learning at Different Speeds: Equilibrium Routing for AI-Driven Science**  
+*ICLR · Under review*  
+TAER-MoE uses validation improvement and expert–task generalization gaps to route capacity when scientific prediction tasks converge at different rates.
 
-## Publications
+**Machine Learning and Early Warning for Complex Climate Transitions**  
+*Advances in Climate Change Research · Under review*  
+A review of physical early-warning signals and machine learning for climate transitions, emphasizing nonstationarity, uncertainty, and actionable warning criteria.
 
-[Google Scholar] [ORCID] [Homepage] [CV]
+</details>
+
+## Research directions
+
+I am interested in **deploying AI agents**, applying them to **semiconductor research and engineering**, and developing **LLM post-training** methods for reasoning and tool use. My current work on scientific optimization and verifiable learning provides a foundation for these directions.
+
+I welcome research discussions and collaborations: **[602025220012@smail.nju.edu.cn](mailto:602025220012@smail.nju.edu.cn)**.
