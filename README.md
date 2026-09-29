@@ -30,7 +30,7 @@ RECAST-TC reconstructs forecast-relevant states from delayed reanalysis and real
 *Physical Review E 113, 065301 (2026) · Published*  
 TFCAD incorporates temporal fluctuation complexity into unsupervised learning to classify quantum dynamical phases. Code release planned.
 
-**[人工智能驱动的新一代气候模式：走向可解释的行为−排放−气候反馈框架](https://doi.org/10.12006/j.issn.1673-1719.2026.146)**  
+**[人工智能驱动的新一代气候模式：走向可解释的行为−排放−气候反馈框架]( https://www.climatechange.cn/CN/10.12006/j.issn.1673-1719.2026.146)**  
 *气候变化研究进展 / Climate Change Research · Accepted · Review in Chinese*  
 A review of AI climate modeling and an interpretable framework linking human behavior, emissions, and climate feedback. Companion resources planned.
 
