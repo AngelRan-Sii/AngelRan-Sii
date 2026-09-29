@@ -13,8 +13,11 @@ I develop agents that connect scientific reasoning with executable tools and sim
 - **Scientific agents · ADAPT for Science**  
   A multi-agent framework that jointly adapts **where to search** and **how to search**, combining prior designs, differentiable simulation, and execution feedback. Evaluated on gravitational-wave detector design. **ICLR · Under review.**
 
-- **Verifiable reinforcement learning · NoThreeRL**  
-  Mathematical construction for the no-three-in-line problem, with an independent integer verifier, an incremental search environment, and PPO training. **Ongoing research.**
+- **AI for Semiconductors · RSI-driven Design**  
+  Translating the self-improving scientific optimization approach explored in ADAPT for Science into practical semiconductor design workflows. The goal is to use recursive self-improvement (RSI) to refine both design candidates and optimization strategies through simulation and evaluation feedback, improving chip performance. **Ongoing research.**
+
+- **Quantum Foundation Models · Domain-Specific Post-Training**  
+  Building a foundation model for quantum science and developing domain-specific post-training methods. The goal is to outperform general-purpose models with hundreds of billions of parameters on quantum reasoning and scientific problem-solving tasks. **Research direction.**
 
 ## Published & accepted
 
