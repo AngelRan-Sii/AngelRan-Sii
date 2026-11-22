@@ -1,4 +1,4 @@
-# Zhaoran Feng · 冯赵然
+# Zhaoran Feng 
 
 **Scientific agents that learn from verifiable feedback.**
 
